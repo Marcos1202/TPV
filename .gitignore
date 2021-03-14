@@ -1,0 +1,4 @@
+TPV/__pycache__/*
+TPV/settings/local.py
+TPV/settings/__pycache__/*
+TPV/apuntes.txt
