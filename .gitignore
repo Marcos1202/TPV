@@ -2,3 +2,6 @@ TPV/__pycache__/*
 TPV/settings/local.py
 TPV/settings/__pycache__/*
 TPV/apuntes.txt
+
+applications/bases/__pycache__/*
+applications/bases/migrations/*
